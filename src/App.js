@@ -1,9 +1,10 @@
+import EmailSubscribe from "./components/EmailSubscribe";
 
 
 function App() {
   return (
-    <div className="text-9xl">
-      Hello
+    <div className="">
+      <EmailSubscribe/>
     </div>
   );
 }
