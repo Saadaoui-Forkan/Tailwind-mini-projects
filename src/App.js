@@ -1,4 +1,5 @@
 import EmailSubscribe from "./components/EmailSubscribe";
+import ImageGallery from "./components/ImageGallery";
 import PricingCard from "./components/PricingCard";
 import ProductModal from "./components/ProductModal";
 
@@ -9,6 +10,7 @@ function App() {
       <EmailSubscribe/>
       <PricingCard/>
       <ProductModal/>
+      <ImageGallery/>
     </div>
   );
 }
