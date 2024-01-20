@@ -61,7 +61,7 @@ function PricingCard() {
                     <span className="text-sm ml-1">200GB of storage</span>
                 </div>
                 <div className="flex justify-center">
-                    <i className="fa-solid fa-check"></i>
+                    <i className="fa-solid fa-check text-xs"></i>
                     <span className="text-sm ml-1">Option to add members</span>
                 </div>
                 <div className="flex justify-center">

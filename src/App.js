@@ -1,5 +1,6 @@
 import EmailSubscribe from "./components/EmailSubscribe";
 import PricingCard from "./components/PricingCard";
+import ProductModal from "./components/ProductModal";
 
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <div className="">
       <EmailSubscribe/>
       <PricingCard/>
+      <ProductModal/>
     </div>
   );
 }
