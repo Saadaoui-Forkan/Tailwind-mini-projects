@@ -7,12 +7,12 @@ import ProductModal from "./components/ProductModal";
 
 function App() {
   return (
-    <div className="">
+    <div>
       <EmailSubscribe/>
-      <PricingCard/>
-      <ProductModal/>
       <ImageGallery/>
       <LoginModal/>
+      <PricingCard/>
+      <ProductModal/>
     </div>
   );
 }
